@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>resolutionData</key>
+	<dict>
+		<key>sheetClusters</key>
+		<dict>
+			<key>README.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>504541779.67353702</real>
+				<key>version</key>
+				<dict>
+					<key>52f3e3655bc2cc9f3f27f1ab9bfa32521f72950f8f002d726d79a05af7f3af77</key>
+					<integer>3</integer>
+				</dict>
+			</dict>
+			<key>工作谈-第五章：元认知学习法.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>504541828.46430898</real>
+				<key>version</key>
+				<dict>
+					<key>52f3e3655bc2cc9f3f27f1ab9bfa32521f72950f8f002d726d79a05af7f3af77</key>
+					<integer>9</integer>
+				</dict>
+			</dict>
+		</dict>
+	</dict>
+	<key>sheetClusters</key>
+	<array>
+		<array>
+			<string>README.md</string>
+		</array>
+		<array>
+			<string>工作谈-第五章：元认知学习法.md</string>
+		</array>
+	</array>
+	<key>storeFormatVersion</key>
+	<integer>1</integer>
+	<key>versioning</key>
+	<dict>
+		<key>sheetClusters</key>
+		<dict>
+			<key>52f3e3655bc2cc9f3f27f1ab9bfa32521f72950f8f002d726d79a05af7f3af77</key>
+			<integer>10</integer>
+		</dict>
+	</dict>
+</dict>
+</plist>
